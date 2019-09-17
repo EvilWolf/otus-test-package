@@ -1,0 +1,18 @@
+{
+    "name": "EvilWolf/otus-test-package",
+    "description": "Test package for homework",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ilya Bogatov",
+            "email": "wolfofdeath@yandex.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "EvilWolf\\": "src/"
+        }
+    }
+}
